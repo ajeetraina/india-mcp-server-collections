@@ -1,8 +1,7 @@
 # India MCP Server Collections
 
-<p align="center">
-  <img src="https://modelcontextprotocol.io/img/mcp-logo.svg" alt="MCP Logo" width="200"/>
-</p>
+<img width="470" alt="Screenshot 2025-05-11 at 10 47 45 AM" src="https://github.com/user-attachments/assets/8606e27b-241b-46c8-929d-a3e372152080" />
+
 
 A curated collection of Model Context Protocol (MCP) servers related to India. This repository serves as a central hub for discovering and using MCP servers that provide India-specific services and data.
 
