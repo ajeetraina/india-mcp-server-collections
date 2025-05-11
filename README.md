@@ -13,7 +13,7 @@ Think of MCP like a USB-C port for AI applications:
 - This enables AI models to access real-time information and perform actions in the real world
 - MCP servers can run locally or in the cloud, providing a secure bridge between AI models and services
 
-For more information, visit the [official MCP documentation](https://modelcontextprotocol.io/introduction).
+[List of Docker MCP Servers](https://mcptoolkits.com)
 
 ## Featured India MCP Servers
 
@@ -95,6 +95,7 @@ We welcome contributions from the community! Whether you want to add new MCP ser
 - [Collabnix MCP Portal](https://mcp.collabnix.com)
 - [Docker MCP Toolkits](https://mcptoolkits.com)
 - [Docker MCP Servers](https://github.com/ajeetraina/awesome-docker-mcp-servers)
+- [Getting Started with MCP](https://mcp.collabnix.com/labs/01-getting-started/index.html)
 - [Model Context Protocol Documentation](https://modelcontextprotocol.io/introduction)
 - [MCP GitHub Organization](https://github.com/modelcontextprotocol)
 - [Awesome MCP Servers List](https://github.com/wong2/awesome-mcp-servers)
