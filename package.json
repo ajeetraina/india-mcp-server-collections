@@ -1,0 +1,33 @@
+{
+  "name": "india-mcp-server-collections",
+  "version": "1.0.0",
+  "description": "A curated collection of Model Context Protocol (MCP) servers related to India",
+  "main": "scripts/update_repos.js",
+  "scripts": {
+    "update": "node scripts/update_repos.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajeetraina/india-mcp-server-collections.git"
+  },
+  "keywords": [
+    "india",
+    "mcp",
+    "model-context-protocol",
+    "ai",
+    "servers",
+    "claude",
+    "anthropic"
+  ],
+  "author": "Ajeet Singh Raina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajeetraina/india-mcp-server-collections/issues"
+  },
+  "homepage": "https://github.com/ajeetraina/india-mcp-server-collections#readme",
+  "dependencies": {
+    "@octokit/rest": "^19.0.0",
+    "axios": "^1.0.0"
+  }
+}
