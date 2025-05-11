@@ -57,19 +57,20 @@ See our detailed [Setup Guide](./SETUP.md) for instructions on how to set up and
 
 ## Repository Structure
 
-```
-india-mcp-server-collections/
-??? README.md              # Main documentation
-??? SETUP.md               # General setup instructions
-??? CONTRIBUTING.md        # Contribution guidelines
-??? LICENSE                # MIT License
-??? transportation/        # Transportation-related MCP servers
-?   ??? README.md
-??? finance/               # Finance-related MCP servers
-?   ??? README.md
-??? healthcare/            # Healthcare-related MCP servers
-    ??? README.md
-```
+The repository is organized into the following directories:
+
+- `README.md` - Main documentation
+- `SETUP.md` - General setup instructions
+- `CONTRIBUTING.md` - Contribution guidelines
+- `LICENSE` - MIT License
+- `transportation/` - Transportation-related MCP servers
+  - `README.md`
+- `finance/` - Finance-related MCP servers
+  - `README.md`
+- `healthcare/` - Healthcare-related MCP servers
+  - `README.md`
+
+Each category directory contains a README file with detailed information about the MCP servers in that category.
 
 ## Contributing
 
