@@ -1,4 +1,4 @@
-# India MCP Server Collections
+# Indian MCP Server Collections
 
 <img width="470" alt="Screenshot 2025-05-11 at 10 47 45 AM" src="https://github.com/user-attachments/assets/8606e27b-241b-46c8-929d-a3e372152080" />
 
