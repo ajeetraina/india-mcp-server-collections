@@ -17,36 +17,36 @@ Think of MCP like a USB-C port for AI applications:
 
 For more information, visit the [official MCP documentation](https://modelcontextprotocol.io/introduction).
 
-## ? Featured India MCP Servers
+## Featured India MCP Servers
 
-### ? Transportation
+### Transportation
 
 #### Indian Railways
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [indian-railways-mcp](https://github.com/rajprem4214/indian-railways-mcp) | Live station status and train information | TypeScript | ? |
-| [indian-railway-mcp](https://github.com/amith-vp/indian-railway-mcp) | Train search, seat availability, delay info, station/train codes | TypeScript | ??? |
+| [indian-railways-mcp](https://github.com/rajprem4214/indian-railways-mcp) | Live station status and train information | TypeScript | 1 |
+| [indian-railway-mcp](https://github.com/amith-vp/indian-railway-mcp) | Train search, seat availability, delay info, station/train codes | TypeScript | 19 |
 
-#### ?? Air Travel
+#### Air Travel
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [india-flight-mcp](https://github.com/ravi-bytes/india-flight-mcp) | Find cheapest airfares for flights in India | JavaScript | - |
-| [ecogotravel](https://github.com/alisajil/ecogotravel) | Travel booking MCP server for India | JavaScript | - |
+| [india-flight-mcp](https://github.com/ravi-bytes/india-flight-mcp) | Find cheapest airfares for flights in India | JavaScript | 0 |
+| [ecogotravel](https://github.com/alisajil/ecogotravel) | Travel booking MCP server for India | JavaScript | 0 |
 
-### ? Financial Services
-
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [Indian-Stock-Exchange-MCP](https://github.com/anuragkrishna/Indian-Stock-Exchange-MCP) | Access to Indian Stock Exchange data | TypeScript | - |
-| [stock-screener-mcp](https://github.com/saisrikark/stock-screener-mcp) | Browse and screen India's stock market | Unknown | - |
-
-### ? Healthcare
+### Financial Services
 
 | Repository | Description | Language | Stars |
 |------------|-------------|----------|-------|
-| [INDIAN_MEDICINE_MCP_SERVER](https://github.com/nowitsidb/INDIAN_MEDICINE_MCP_SERVER) | Medicine information lookup, alternative suggestions, composition analysis | Python | ? |
+| [Indian-Stock-Exchange-MCP](https://github.com/anuragkrishna/Indian-Stock-Exchange-MCP) | Access to Indian Stock Exchange data | TypeScript | 0 |
+| [stock-screener-mcp](https://github.com/saisrikark/stock-screener-mcp) | Browse and screen India's stock market | JavaScript | 0 |
 
-## ? Getting Started
+### Healthcare
+
+| Repository | Description | Language | Stars |
+|------------|-------------|----------|-------|
+| [INDIAN_MEDICINE_MCP_SERVER](https://github.com/nowitsidb/INDIAN_MEDICINE_MCP_SERVER) | Medicine information lookup, alternative suggestions, composition analysis | Python | 1 |
+
+## Getting Started
 
 To use these MCP servers, you'll need an MCP-compatible client such as:
 - Claude Desktop
@@ -55,7 +55,7 @@ To use these MCP servers, you'll need an MCP-compatible client such as:
 
 See our detailed [Setup Guide](./SETUP.md) for instructions on how to set up and use these MCP servers.
 
-## ?? Repository Structure
+## Repository Structure
 
 ```
 india-mcp-server-collections/
@@ -71,11 +71,11 @@ india-mcp-server-collections/
     ??? README.md
 ```
 
-## ? Contributing
+## Contributing
 
 We welcome contributions from the community! Whether you want to add new MCP servers, update information, or improve documentation, please see our [Contributing Guide](./CONTRIBUTING.md) for details.
 
-## ? Resources
+## Resources
 
 - [Model Context Protocol Documentation](https://modelcontextprotocol.io/introduction)
 - [MCP GitHub Organization](https://github.com/modelcontextprotocol)
@@ -83,7 +83,7 @@ We welcome contributions from the community! Whether you want to add new MCP ser
 - [MCP SDK TypeScript](https://github.com/modelcontextprotocol/typescript-sdk)
 - [MCP SDK Python](https://github.com/modelcontextprotocol/python-sdk)
 
-## ? License
+## License
 
 This repository is licensed under the [MIT License](./LICENSE).
 
