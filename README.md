@@ -1,3 +1,10 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/ajeetraina/indian-mcp-server-collections)](https://github.com/ajeetraina/indian-mcp-server-collections/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ajeetraina/indian-mcp-server-collections)](https://github.com/ajeetraina/indian-mcp-server-collections/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/ajeetraina/indian-mcp-server-collections)](https://github.com/ajeetraina/indian-mcp-server-collections/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ajeetraina/indian-mcp-server-collections/pulls)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ajeetraina/indian-mcp-server-collections/graphs/commit-activity)
+
 # Indian MCP Server Collections
 
 <img width="470" alt="Screenshot 2025-05-11 at 10 47 45 AM" src="https://github.com/user-attachments/assets/8606e27b-241b-46c8-929d-a3e372152080" />
